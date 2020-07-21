@@ -4,7 +4,7 @@
 ****	Copyright 2020, CunterFuck.com
 ****	This script was created by
 ****	SkyWalker, aka SkyWalker3200
-****	You are not allowed to modify, download, or redistrute this script without WRITTEN CONSENT
+****	Open source license. Please help me keep it working.
 ****	From SkyWalker himself.
 **********************************************************************************************************/
 
